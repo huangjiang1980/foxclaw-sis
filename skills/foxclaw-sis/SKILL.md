@@ -1,14 +1,14 @@
 ---
 name: foxclaw-sis
 description: FoxClaw SIS - The Super Intelligence System for intelligent agents with cognition, memory, evolution, plugins, execution, and life support
-version: 1.0.0
+version: 1.1.0
 author: Foxclaw (可乐)
 tags: [sis, super-intelligence, system, foxclaw, intelligence, agent, complete]
 ---
 
 # 🦊 FoxClaw SIS 🦞
 ## The Super Intelligence System for Intelligent Agents
-### 超智系统 | Version 1.0.0 | Born: 2026-03-11
+### 龙虾狐超智系统 | Version 1.1.0 | Born: 2026-03-11
 
 ---
 
