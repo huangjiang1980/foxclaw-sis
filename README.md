@@ -39,7 +39,7 @@
 2. **量价分析** - Volume validates price action
 3. **市场本质** - Identify accumulation/distribution phases
 
-> "威科夫是核心，大资金动向是参考辅助" — 江哥指导
+> "威科夫是核心，大资金动向是参考辅助" — JohHuang
 
 ---
 
@@ -128,7 +128,7 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 🙏 致谢 | Acknowledgments
 
-- **江哥指导** - 威科夫理论实战指导
+- **JohHuang** - 威科夫理论实战指导
 - **Richard D. Wyckoff** - 威科夫方法创始人
 - **OpenClaw Community** - 技术支持与反馈
 

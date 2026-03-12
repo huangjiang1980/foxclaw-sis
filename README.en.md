@@ -34,7 +34,7 @@
 2. **Volume-Price Analysis** - Volume validates price action
 3. **Market Structure** - Identify accumulation/distribution phases
 
-> "Wyckoff is the core; smart money flow is auxiliary reference" — Mentor Jiang
+> "Wyckoff is the core; smart money flow is auxiliary reference" — JohHuang
 
 ---
 
@@ -73,7 +73,7 @@
 2. **Check Weekly** — Find phase opportunities (bottom patterns/breakout patterns)
 3. **End with Daily** — Find precise entry points (support + volume breakout)
 
-> "Monthly for trend, Weekly for phase, Daily for entry" — Mentor Jiang
+> "Monthly for trend, Weekly for phase, Daily for entry" — JohHuang
 
 ---
 
@@ -303,4 +303,4 @@ Plan C: Balanced (Recommended)
 
 **Version:** 2.0.1  
 **Updated:** 2026-03-12  
-**Core Contributors:** Mentor Jiang + Practical Lessons + A-Share Characteristics
+**Core Contributors:** JohHuang + Practical Lessons + A-Share Characteristics
