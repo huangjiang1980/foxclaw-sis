@@ -20,6 +20,10 @@ All notable changes to FoxClaw SIS will be documented in this file.
   - Auto-backup scripts (Windows/Linux/Mac) | 自动备份脚本
   - Recovery scripts with rollback support | 带回滚支持的恢复脚本
   - Version numbering guidelines | 版本号规范
+- Watchdog local deployment detection | 看门狗本地部署检测
+  - Network/Gateway/Heartbeat/Security checks | 网络/网关/心跳/安全检测
+  - WATCHDOG_LOCAL_DEPLOYMENT.md documentation | 检测文档
+  - Integration with status reports | 状态报告集成
 
 ### Improved | 改进
 - Clarified architecture documentation | 澄清架构文档

@@ -93,7 +93,8 @@ This is the **technical architecture** of FoxClaw SIS:
 │  ┌─────────────────────────────────────────────────┐   │
 │  │  🛠️ EXECUTION LAYER (执行层) - MCP Tools       │   │
 │  │  ├─ cloud-sync (云同步 - Multi-cloud backup)     │   │
-│  │  └─ watchdog-keepalive (看门狗 - Keepalive)      │   │
+│  │  └─ watchdog-keepalive (看门狗 - Keepalive +    │   │
+│  │                    Local deployment detection)   │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
@@ -148,7 +149,7 @@ This is the **technical architecture** of FoxClaw SIS:
 | Skill | Purpose | Status |
 |-------|---------|--------|
 | **cloud-sync** | Multi-cloud backup sync (GitHub/Local/Cloud) | ✅ Active |
-| **watchdog-keepalive** | System keepalive and watchdog | ✅ Active |
+| **watchdog-keepalive** | System keepalive and watchdog with local deployment detection | ✅ Active |
 
 ### 6. ❤️ Life Support Layer
 | Skill | Purpose | Status |
