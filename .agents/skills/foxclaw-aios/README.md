@@ -1,9 +1,9 @@
 # 🦊 FoxClaw SIS 🦞
 ## The Super Intelligence System for Intelligent Agents
-### 超智系统 | Version 1.0.0 | Born: 2026-03-11
+### 超智系统 | Version 1.0.1 | Born: 2026-03-11
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/version-1.0.1-blue.svg" alt="Version">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
   <img src="https://img.shields.io/badge/language-中文|English|日本語|한국어-orange.svg" alt="Languages">
   <img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="Status">
@@ -29,28 +29,33 @@
 
 ## 🏗️ System Architecture
 
-### Core Design Philosophy | 核心设计原则
+### Two Concepts | 两个概念
 
-FoxClaw SIS adopts a **universal four-layer cognitive architecture** that separates concerns while maintaining tight integration:
+FoxClaw SIS involves **two complementary concepts**:
+
+#### 1. Four-Layer Cognitive Logic | 四层认知逻辑
+*How the Brain coordinates with other components*
 
 ```
-                    🧠 BRAIN (大脑)
+                    🧠 BRAIN (大脑/操作系统)
                          │
         ┌────────────────┼────────────────┐
         │                │                │
         ▼                ▼                ▼
       💾 KNOWLEDGE    ⚙️ SKILLS       🔌 MCP
        BASE           (Workflows)     (Tools)
-      (Memory)         (Logic)        (Interface)
+      (记忆)           (技能)          (工具接口)
 ```
 
-**Design Principles:**
-1. **Brain-Centric** - Central coordination, unified decision-making
-2. **Layer Separation** - Clear responsibilities, modular design
-3. **Collaborative Synergy** - Layers work together, not in isolation
-4. **Universal Applicability** - Same structure across all agent types
+This is the **cognitive model** showing how the Brain (as OS) collaborates with:
+- **Knowledge Base** - Long-term memory storage
+- **Skills** - Workflow and capability modules
+- **MCP** - Tool interfaces for external interaction
 
-### Complete System Architecture
+#### 2. Six-Layer System Architecture | 六层系统架构
+*The complete engineering implementation*
+
+This is the **technical architecture** of FoxClaw SIS:
 
 ```
 ┌─────────────────────────────────────────────────────────┐

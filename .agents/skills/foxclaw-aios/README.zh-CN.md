@@ -1,9 +1,9 @@
 # 🦊 FoxClaw SIS 🦞
 ## 超智系统 - 智能体超级智能系统
-### 版本 1.0.0 | 诞生: 2026-03-11
+### 版本 1.0.1 | 诞生: 2026-03-11
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-1.0.0-blue.svg" alt="版本">
+  <img src="https://img.shields.io/badge/版本-1.0.1-blue.svg" alt="版本">
   <img src="https://img.shields.io/badge/许可证-MIT-green.svg" alt="许可证">
   <img src="https://img.shields.io/badge/状态-活跃-brightgreen.svg" alt="状态">
 </p>

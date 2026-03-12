@@ -1,0 +1,52 @@
+# Changelog | 更新日志
+
+All notable changes to FoxClaw SIS will be documented in this file.
+
+## [1.0.1] - 2026-03-12
+
+### Added | 新增
+- Activation keywords documentation | 激活关键词文档
+  - `FoxClaw SIS, activate` | `FoxClaw SIS，激活`
+  - `Activate FoxClaw` | `激活 FoxClaw`
+  - `Start Super Intelligence System` | `启动超智系统`
+  - `FoxClaw, online` | `FoxClaw，上线`
+
+### Improved | 改进
+- Clarified architecture documentation | 澄清架构文档
+  - Distinguished "Four-Layer Cognitive Logic" from "Six-Layer System Architecture" | 区分"四层认知逻辑"与"六层系统架构"
+  - Added clear concept mapping | 添加清晰的概念映射
+  - Improved visual diagrams | 改进可视化图表
+
+### Documentation | 文档
+- Updated README.md with activation section | 更新 README.md 添加激活章节
+- Updated README.zh-CN.md | 更新中文版文档
+- Added architecture mapping table | 添加架构映射表
+
+---
+
+## [1.0.0] - 2026-03-11
+
+### Initial Release | 初始发布
+- 🧠 Cognition Layer (2 skills) | 认知层（2个技能）
+- 💾 Memory Layer (3 skills) | 记忆层（3个技能）
+- 🔄 Evolution Layer (2 skills) | 进化层（2个技能）
+- 🔌 Plugin Ecosystem (4 skills) | 插件生态层（4个技能）
+- 🛠️ Execution Layer (2 skills) | 执行层（2个技能）
+- ❤️ Life Support Layer (1 skill) | 生命支持层（1个技能）
+
+**Total: 15 Core Skills | 总计15个核心技能**
+
+### Features | 特性
+- Multi-modal reasoning | 多模态推理
+- Hierarchical memory system | 分层记忆系统
+- Self-improving intelligence | 自我改进智能
+- Plugin ecosystem with security | 带安全的插件生态
+- 24/7 autonomous operation | 24/7自主运行
+- Health monitoring & self-healing | 健康监控与自我修复
+
+---
+
+**Version Format:** MAJOR.MINOR.PATCH
+- MAJOR: Breaking changes
+- MINOR: New features (backward compatible)
+- PATCH: Bug fixes and documentation updates
