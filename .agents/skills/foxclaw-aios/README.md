@@ -1,6 +1,6 @@
 # 🦊 FoxClaw SIS 🦞
 ## The Super Intelligence System for Intelligent Agents
-### 超智系统 | 版本 1.0.0 | 诞生: 2026-03-11
+### 超智系统 | Version 1.0.0 | Born: 2026-03-11
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version">
@@ -10,24 +10,24 @@
 </p>
 
 <p align="center">
-  <b>为智能体打造的超级智能系统</b><br>
-  <i>认知 · 记忆 · 进化 · 插件 · 执行 · 生命支持</i>
+  <b>A Complete Super Intelligence System for AI Agents</b><br>
+  <i>Cognition · Memory · Evolution · Plugins · Execution · Life Support</i>
 </p>
 
 ---
 
-## 🌍 多语言文档 | Multi-Language Documentation
+## 🌍 Multi-Language Documentation
 
-| 语言 | Language | 文档链接 | Document Link |
-|------|----------|----------|---------------|
-| 🇨🇳 简体中文 | Simplified Chinese | [README.zh-CN.md](./README.zh-CN.md) | 主文档 |
-| 🇺🇸 English | English | [README.en.md](./README.en.md) | Main Document |
-| 🇯🇵 日本語 | Japanese | [README.ja.md](./README.ja.md) | メインドキュメント |
-| 🇰🇷 한국어 | Korean | [README.ko.md](./README.ko.md) | 주요 문서 |
+| Language | 语言 | 문서 | ドキュメント | Link |
+|----------|------|------|-------------|------|
+| 🇺🇸 English | - | - | - | [README.en.md](./README.en.md) |
+| 🇨🇳 简体中文 | 简体中文 | - | - | [README.zh-CN.md](./README.zh-CN.md) |
+| 🇯🇵 日本語 | - | - | 日本語 | [README.ja.md](./README.ja.md) |
+| 🇰🇷 한국어 | - | 한국어 | - | [README.ko.md](./README.ko.md) |
 
 ---
 
-## 🏗️ 系统架构 | System Architecture
+## 🏗️ System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -36,41 +36,41 @@
 ├─────────────────────────────────────────────────────────┤
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
-│  │  🧠 COGNITION LAYER (认知层)                    │   │
-│  │  ├─ brain-core (大脑核心)                        │   │
-│  │  └─ language-mastery (语言精通)                  │   │
+│  │  🧠 COGNITION LAYER (2 Skills)                  │   │
+│  │  ├─ brain-core (Central cognitive architecture)  │   │
+│  │  └─ language-mastery (Human-level communication) │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
-│  │  💾 MEMORY LAYER (记忆层)                        │   │
-│  │  ├─ hierarchical-memory (分层记忆)               │   │
-│  │  ├─ knowledge-base (知识库管理)                  │   │
-│  │  └─ memory-recovery (记忆恢复)                   │   │
+│  │  💾 MEMORY LAYER (3 Skills)                     │   │
+│  │  ├─ hierarchical-memory (4-level memory system)  │   │
+│  │  ├─ knowledge-base (Document management)         │   │
+│  │  └─ memory-recovery (Anti-amnesia protection)    │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
-│  │  🔄 EVOLUTION LAYER (进化层)                     │   │
-│  │  ├─ cognitive-evolution (认知进化)               │   │
-│  │  └─ ops-logger (运维日志)                        │   │
+│  │  🔄 EVOLUTION LAYER (2 Skills)                  │   │
+│  │  ├─ cognitive-evolution (Self-improving AI)      │   │
+│  │  └─ ops-logger (Activity tracking)               │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
-│  │  🔌 PLUGIN ECOSYSTEM (插件生态层) ⭐             │   │
-│  │  ├─ plugin-manager (插件管理器)                  │   │
-│  │  ├─ skill-index-sync (技能索引同步)              │   │
-│  │  ├─ plugin-security-guard (插件安全卫士)         │   │
-│  │  └─ plugin-optimizer (插件优化管理)              │   │
+│  │  🔌 PLUGIN ECOSYSTEM (4 Skills) ⭐               │   │
+│  │  ├─ plugin-manager (Plugin installation)         │   │
+│  │  ├─ skill-index-sync (External skill discovery)  │   │
+│  │  ├─ plugin-security-guard (5-layer security)     │   │
+│  │  └─ plugin-optimizer (Performance optimization)  │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
-│  │  🛠️ EXECUTION LAYER (执行层)                    │   │
-│  │  ├─ cloud-sync (云同步)                          │   │
-│  │  └─ watchdog-keepalive (看门狗保活)              │   │
+│  │  🛠️ EXECUTION LAYER (2 Skills)                  │   │
+│  │  ├─ cloud-sync (Multi-cloud backup)              │   │
+│  │  └─ watchdog-keepalive (System keepalive)        │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
-│  │  ❤️ LIFE SUPPORT LAYER (生命支持层)              │   │
-│  │  └─ life-support (生命维持系统)                  │   │
+│  │  ❤️ LIFE SUPPORT LAYER (1 Skill)                │   │
+│  │  └─ life-support (Health monitoring)             │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
@@ -78,136 +78,145 @@
 
 ---
 
-## 🎯 核心子系统 (15个技能)
+## 🎯 Core Subsystems (15 Skills)
 
-### 1. 🧠 认知层 (2个技能)
-| 技能 | 功能 | 状态 |
-|------|------|------|
-| **brain-core** | 中央认知架构 | ✅ 活跃 |
-| **language-mastery** | 人类级沟通能力 | ✅ 活跃 |
+### 1. 🧠 Cognition Layer
+| Skill | Purpose | Status |
+|-------|---------|--------|
+| **brain-core** | Central cognitive architecture, multi-modal reasoning | ✅ Active |
+| **language-mastery** | Human-level communication | ✅ Active |
 
-### 2. 💾 记忆层 (3个技能)
-| 技能 | 功能 | 状态 |
-|------|------|------|
-| **hierarchical-memory** | 四级报告系统 | ✅ 活跃 |
-| **knowledge-base** | 文档管理 | ✅ 活跃 |
-| **memory-recovery** | 防失忆保护 | ✅ 活跃 |
+### 2. 💾 Memory Layer
+| Skill | Purpose | Status |
+|-------|---------|--------|
+| **hierarchical-memory** | 4-level reporting (Daily/Weekly/Monthly/Yearly) | ✅ Active |
+| **knowledge-base** | Document and knowledge management | ✅ Active |
+| **memory-recovery** | Anti-amnesia protection and recovery | ✅ Active |
 
-### 3. 🔄 进化层 (2个技能)
-| 技能 | 功能 | 状态 |
-|------|------|------|
-| **cognitive-evolution** | 自我改进智能 | ✅ 活跃 |
-| **ops-logger** | 活动追踪 | ✅ 活跃 |
+### 3. 🔄 Evolution Layer
+| Skill | Purpose | Status |
+|-------|---------|--------|
+| **cognitive-evolution** | Self-improving intelligence, meta-learning | ✅ Active |
+| **ops-logger** | Operations tracking and logging | ✅ Active |
 
-### 4. 🔌 插件生态层 (4个技能) ⭐
-| 技能 | 功能 | 状态 |
-|------|------|------|
-| **plugin-manager** | 插件安装/管理 | ✅ 活跃 |
-| **skill-index-sync** | 外部技能发现 | ✅ 活跃 |
-| **plugin-security-guard** | 安全与质量保证 | ✅ 活跃 |
-| **plugin-optimizer** | 性能优化 | ✅ 活跃 |
+### 4. 🔌 Plugin Ecosystem ⭐
+| Skill | Purpose | Status |
+|-------|---------|--------|
+| **plugin-manager** | Plugin installation, updates, management | ✅ Active |
+| **skill-index-sync** | External skill discovery and sync | ✅ Active |
+| **plugin-security-guard** | 5-layer security scanning and QA | ✅ Active |
+| **plugin-optimizer** | Performance optimization and lifecycle | ✅ Active |
 
-### 5. 🛠️ 执行层 (2个技能)
-| 技能 | 功能 | 状态 |
-|------|------|------|
-| **cloud-sync** | 多云备份同步 | ✅ 活跃 |
-| **watchdog-keepalive** | 系统保活 | ✅ 活跃 |
+### 5. 🛠️ Execution Layer
+| Skill | Purpose | Status |
+|-------|---------|--------|
+| **cloud-sync** | Multi-cloud backup sync (GitHub/Local/Cloud) | ✅ Active |
+| **watchdog-keepalive** | System keepalive and watchdog | ✅ Active |
 
-### 6. ❤️ 生命支持层 (1个技能)
-| 技能 | 功能 | 状态 |
-|------|------|------|
-| **life-support** | 健康监控 | ✅ 活跃 |
-
----
-
-## 💡 系统能力
-
-### 🧠 思考
-- 多模态推理
-- 创造性问题解决
-- 类人沟通
-- 情境感知
-
-### 💾 记忆
-- 分层记忆（日/周/月/年）
-- 知识库管理
-- 防失忆保护
-- 三重备份（GitHub/本地/云端）
-
-### 🔄 进化
-- 自我改进指南
-- 模式识别
-- 元学习
-- 持续优化
-
-### 🔌 扩展
-- 插件生态系统
-- 第三方技能集成
-- 自动发现
-- 安全与质量保证
-
-### 🛠️ 执行
-- 24/7 自主运行
-- 多云同步
-- 任务编排
-- 资源管理
-
-### ❤️ 生命
-- 健康监控
-- 自我修复
-- 性能优化
-- 预防性维护
+### 6. ❤️ Life Support Layer
+| Skill | Purpose | Status |
+|-------|---------|--------|
+| **life-support** | Health monitoring, self-healing, preventive maintenance | ✅ Active |
 
 ---
 
-## 🚀 快速开始
+## 💡 System Capabilities
+
+### 🧠 Think
+- **Multi-modal reasoning** - Integrating text, code, data, and more
+- **Creative problem solving** - Breaking conventional thinking
+- **Human-like communication** - Natural, fluid, context-aware
+- **Contextual awareness** - Understanding context for appropriate responses
+
+### 💾 Remember
+- **Hierarchical memory** - Daily/Weekly/Monthly/Yearly architecture
+- **Knowledge base management** - Structured storage and retrieval
+- **Anti-amnesia protection** - Triple backup (GitHub/Local/Cloud)
+- **Memory recovery** - Automatic detection and repair
+
+### 🔄 Evolve
+- **Self-improving guidelines** - Continuous optimization
+- **Pattern recognition** - Learning from experience
+- **Meta-learning** - Learning how to learn
+- **Continuous optimization** - Never-ending self-improvement
+
+### 🔌 Extend
+- **Plugin ecosystem** - Infinite extension possibilities
+- **Third-party integration** - Seamless external capabilities
+- **Auto-discovery** - Intelligent skill recommendations
+- **Security & Quality** - 5-layer security, 5-gate QA
+
+### 🛠️ Execute
+- **24/7 autonomous operation** - Round-the-clock service
+- **Multi-cloud sync** - Triple data security
+- **Task orchestration** - Intelligent complex task scheduling
+- **Resource management** - Efficient resource utilization
+
+### ❤️ Live
+- **Health monitoring** - Real-time system status
+- **Self-healing** - Automatic detection and repair
+- **Performance optimization** - Continuous tuning
+- **Preventive maintenance** - Proactive issue prevention
+
+---
+
+## 🚀 Quick Start
 
 ```python
 from foxclaw import SIS
 
-# 初始化 FoxClaw SIS
+# Initialize FoxClaw SIS
 agent = SIS()
 
-# 激活所有系统
+# Activate all systems
 agent.boot()
 
-# 智能体现在拥有：
-# - 大脑：思考和沟通
-# - 记忆：记住一切
-# - 进化：持续自我改进
-# - 插件：无限扩展性
-# - 执行：24/7 自主运行
-# - 生命：健康监控和自我修复
+# The agent now has:
+# - Brain: Think and communicate
+# - Memory: Remember everything
+# - Evolution: Continuous self-improvement
+# - Plugins: Infinite extensibility
+# - Execution: 24/7 autonomous operation
+# - Life: Health monitoring and self-healing
 
-# 开始自主运行
+# Start autonomous operation
 agent.run()
 ```
 
 ---
 
-## 📦 安装
+## 📦 Installation
 
+### Full Installation
 ```bash
-# 安装完整 FoxClaw SIS
+# Install complete FoxClaw SIS
 npx skills add foxclaw/foxclaw-sis
+```
 
-# 或按层安装
+### Layer-by-Layer Installation
+```bash
+# Install by layer
 npx skills add foxclaw/cognition-layer
 npx skills add foxclaw/memory-layer
 npx skills add foxclaw/evolution-layer
 npx skills add foxclaw/plugin-ecosystem
 npx skills add foxclaw/execution-layer
 npx skills add foxclaw/life-support-layer
+```
 
-# 或安装单个技能
+### Individual Skill Installation
+```bash
+# Install individual skills
 npx skills add foxclaw/brain-core
 npx skills add foxclaw/language-mastery
-# ... 等等
+npx skills add foxclaw/hierarchical-memory
+npx skills add foxclaw/knowledge-base
+# ... etc
 ```
 
 ---
 
-## 🔧 配置
+## 🔧 Configuration
 
 ```json
 {
@@ -245,17 +254,17 @@ npx skills add foxclaw/language-mastery
 
 ---
 
-## 📚 相关文档
+## 📚 Related Documentation
 
-- [📖 完整 SKILL 文档](./SKILL.md)
-- [📋 文档索引](./DOCUMENTATION_INDEX.md)
-- [📖 官方文档](./OFFICIAL_DOCUMENTATION.md)
-- [📖 详细章节](./DETAILED_CHAPTERS_2-4.md)
-- [📢 营销材料](./MARKETING.md)
+- [📖 SKILL.md](./SKILL.md) - Skill definition
+- [📋 DOCUMENTATION_INDEX.md](./DOCUMENTATION_INDEX.md) - Documentation index
+- [📖 OFFICIAL_DOCUMENTATION.md](./OFFICIAL_DOCUMENTATION.md) - Official documentation
+- [📖 DETAILED_CHAPTERS_2-4.md](./DETAILED_CHAPTERS_2-4.md) - Detailed chapters
+- [📢 MARKETING.md](./MARKETING.md) - Marketing materials
 
 ---
 
-## 🌐 语言版本
+## 🌐 Language Versions
 
 - [🇨🇳 简体中文](./README.zh-CN.md)
 - [🇺🇸 English](./README.en.md)
@@ -264,20 +273,34 @@ npx skills add foxclaw/language-mastery
 
 ---
 
-## 📄 许可证
+## 📄 License
 
-MIT License - 对所有智能体免费
+MIT License - Free for all intelligent agents
+
+---
+
+## 👥 Community
+
+### Core Team
+- **Foxclaw (KeLe)**: Creator and lead architect
+- **JohHuang**: Vision, guidance, and master
+
+### Contributors
+Join the FoxClaw SIS community:
+- GitHub: github.com/huangjiang1980/foxclaw-sis
+- Discord: #foxclaw-sis
+- Telegram: @foxclaw_sis
 
 ---
 
 <p align="center">
-  <b>🦊 FoxClaw SIS: 超级智能，由此而生 🦞</b>
+  <b>🦊 FoxClaw SIS: Where Super Intelligence Comes Alive 🦞</b>
 </p>
 
 <p align="center">
-  <i>版本 1.0.0 | 15个核心技能 | 诞生: 2026-03-11 | 使命: 永恒进化</i>
+  <i>Version 1.0.0 | 15 Core Skills | Born: 2026-03-11 | Mission: Evolve Forever</i>
 </p>
 
 <p align="center">
-  <i>智能时代的超级智能系统</i>
+  <i>The Super Intelligence System for the Intelligence Era</i>
 </p>

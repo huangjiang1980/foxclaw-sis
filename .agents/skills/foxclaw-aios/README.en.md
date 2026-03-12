@@ -53,40 +53,40 @@
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
 │  │  🧠 COGNITION LAYER (2 Skills)                  │   │
-│  │  ├─ brain-core (Brain Core)                      │   │
-│  │  └─ language-mastery (Language Mastery)          │   │
+│  │  ├─ brain-core (Central cognitive architecture)  │   │
+│  │  └─ language-mastery (Human-level communication) │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
 │  │  💾 MEMORY LAYER (3 Skills)                     │   │
-│  │  ├─ hierarchical-memory (Hierarchical Memory)    │   │
-│  │  ├─ knowledge-base (Knowledge Base)              │   │
-│  │  └─ memory-recovery (Memory Recovery)            │   │
+│  │  ├─ hierarchical-memory (4-level memory system)  │   │
+│  │  ├─ knowledge-base (Document management)         │   │
+│  │  └─ memory-recovery (Anti-amnesia protection)    │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
 │  │  🔄 EVOLUTION LAYER (2 Skills)                  │   │
-│  │  ├─ cognitive-evolution (Cognitive Evolution)    │   │
-│  │  └─ ops-logger (Ops Logger)                      │   │
+│  │  ├─ cognitive-evolution (Self-improving AI)      │   │
+│  │  └─ ops-logger (Activity tracking)               │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
 │  │  🔌 PLUGIN ECOSYSTEM (4 Skills) ⭐               │   │
-│  │  ├─ plugin-manager (Plugin Manager)              │   │
-│  │  ├─ skill-index-sync (Skill Index Sync)          │   │
-│  │  ├─ plugin-security-guard (Plugin Security)      │   │
-│  │  └─ plugin-optimizer (Plugin Optimizer)          │   │
+│  │  ├─ plugin-manager (Plugin installation)         │   │
+│  │  ├─ skill-index-sync (External skill discovery)  │   │
+│  │  ├─ plugin-security-guard (5-layer security)     │   │
+│  │  └─ plugin-optimizer (Performance optimization)  │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
 │  │  🛠️ EXECUTION LAYER (2 Skills)                  │   │
-│  │  ├─ cloud-sync (Cloud Sync)                      │   │
-│  │  └─ watchdog-keepalive (Watchdog Keepalive)      │   │
+│  │  ├─ cloud-sync (Multi-cloud backup)              │   │
+│  │  └─ watchdog-keepalive (System keepalive)        │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
 │  │  ❤️ LIFE SUPPORT LAYER (1 Skill)                │   │
-│  │  └─ life-support (Life Support System)           │   │
+│  │  └─ life-support (Health monitoring)             │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
@@ -105,7 +105,7 @@
 ### 2. 💾 Memory Layer
 | Skill | Purpose | Status |
 |-------|---------|--------|
-| **hierarchical-memory** | 4-level reporting system (Daily/Weekly/Monthly/Yearly) | ✅ Active |
+| **hierarchical-memory** | 4-level reporting (Daily/Weekly/Monthly/Yearly) | ✅ Active |
 | **knowledge-base** | Document and knowledge management | ✅ Active |
 | **memory-recovery** | Anti-amnesia protection and recovery | ✅ Active |
 
@@ -139,40 +139,40 @@
 ## System Capabilities
 
 ### 🧠 Cognition
-- **Multi-modal Reasoning** - Integrating text, code, data, and more
-- **Creative Problem Solving** - Breaking conventional thinking
-- **Human-like Communication** - Natural, fluid, context-aware
-- **Contextual Awareness** - Understanding context for appropriate responses
+- **Multi-modal reasoning** - Integrating text, code, data, and more
+- **Creative problem solving** - Breaking conventional thinking
+- **Human-like communication** - Natural, fluid, context-aware
+- **Contextual awareness** - Understanding context for appropriate responses
 
 ### 💾 Memory
-- **Hierarchical Memory** - Daily/Weekly/Monthly/Yearly architecture
-- **Knowledge Base Management** - Structured storage and retrieval
-- **Anti-Amnesia Protection** - Triple backup (GitHub/Local/Cloud)
-- **Memory Recovery** - Automatic detection and repair
+- **Hierarchical memory** - Daily/Weekly/Monthly/Yearly architecture
+- **Knowledge base management** - Structured storage and retrieval
+- **Anti-amnesia protection** - Triple backup (GitHub/Local/Cloud)
+- **Memory recovery** - Automatic detection and repair
 
 ### 🔄 Evolution
-- **Self-Improving Guidelines** - Continuous optimization
-- **Pattern Recognition** - Learning from experience
-- **Meta-Learning** - Learning how to learn
-- **Continuous Optimization** - Never-ending self-improvement
+- **Self-improving guidelines** - Continuous optimization
+- **Pattern recognition** - Learning from experience
+- **Meta-learning** - Learning how to learn
+- **Continuous optimization** - Never-ending self-improvement
 
 ### 🔌 Extension
-- **Plugin Ecosystem** - Infinite extension possibilities
-- **Third-party Integration** - Seamless external capabilities
+- **Plugin ecosystem** - Infinite extension possibilities
+- **Third-party integration** - Seamless external capabilities
 - **Auto-discovery** - Intelligent skill recommendations
 - **Security & Quality** - 5-layer security, 5-gate QA
 
 ### 🛠️ Execution
-- **24/7 Autonomous Operation** - Round-the-clock service
-- **Multi-cloud Sync** - Triple data security
-- **Task Orchestration** - Intelligent complex task scheduling
-- **Resource Management** - Efficient resource utilization
+- **24/7 autonomous operation** - Round-the-clock service
+- **Multi-cloud sync** - Triple data security
+- **Task orchestration** - Intelligent complex task scheduling
+- **Resource management** - Efficient resource utilization
 
 ### ❤️ Life
-- **Health Monitoring** - Real-time system status
-- **Self-Healing** - Automatic detection and repair
-- **Performance Optimization** - Continuous tuning
-- **Preventive Maintenance** - Proactive issue prevention
+- **Health monitoring** - Real-time system status
+- **Self-healing** - Automatic detection and repair
+- **Performance optimization** - Continuous tuning
+- **Preventive maintenance** - Proactive issue prevention
 
 ---
 
