@@ -25,6 +25,11 @@ All notable changes to FoxClaw SIS will be documented in this file.
   - WATCHDOG_LOCAL_DEPLOYMENT.md documentation | 检测文档
   - Integration with status reports | 状态报告集成
   - STATUS_REPORT_TEMPLATE.md updated with local deployment section | 状态报告模板更新本地部署检测项
+- Security audit and hardening | 安全审计与加固
+  - SECURITY_AUDIT.md - Comprehensive security review | 全面安全审查
+  - SECURITY_HARDENING.md - Step-by-step security guide | 分步安全指南
+  - Risk assessment and recommendations | 风险评估与建议
+  - Security checklist templates | 安全检查清单模板
 
 ### Improved | 改进
 - Clarified architecture documentation | 澄清架构文档
