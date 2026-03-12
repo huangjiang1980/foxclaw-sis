@@ -24,6 +24,7 @@ All notable changes to FoxClaw SIS will be documented in this file.
   - Network/Gateway/Heartbeat/Security checks | 网络/网关/心跳/安全检测
   - WATCHDOG_LOCAL_DEPLOYMENT.md documentation | 检测文档
   - Integration with status reports | 状态报告集成
+  - STATUS_REPORT_TEMPLATE.md updated with local deployment section | 状态报告模板更新本地部署检测项
 
 ### Improved | 改进
 - Clarified architecture documentation | 澄清架构文档
