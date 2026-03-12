@@ -81,6 +81,14 @@ FoxClaw SIS status check
 🦊 FoxClaw SIS 状态检测报告
 *检测时间: [YYYY-MM-DD HH:MM]*
 
+## 部署信息 | Deployment Info
+
+| 项目 | 值 |
+|------|-----|
+| 部署模式 | [☁️ 云端 / 🖥️ 本地] |
+| 检测方式 | [自动识别 / 手动设置] |
+| 运行环境 | [Cloud PC / VPS / Local / Docker] |
+
 ## 核心系统状态
 
 | 指标 | 状态 | 详情 |

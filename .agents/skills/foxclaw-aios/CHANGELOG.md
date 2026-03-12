@@ -30,6 +30,11 @@ All notable changes to FoxClaw SIS will be documented in this file.
   - SECURITY_HARDENING.md - Step-by-step security guide | 分步安全指南
   - Risk assessment and recommendations | 风险评估与建议
   - Security checklist templates | 安全检查清单模板
+- Dual deployment mode support | 双部署模式支持
+  - DEPLOYMENT_MODES.md - Cloud vs Local deployment guide | 云端/本地部署指南
+  - Auto-detection scripts (Windows/Linux/Mac) | 自动检测脚本
+  - Adaptive monitoring based on deployment mode | 基于部署模式的自适应监控
+  - Manual override support | 手动覆盖支持
 
 ### Improved | 改进
 - Clarified architecture documentation | 澄清架构文档
