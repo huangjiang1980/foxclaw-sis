@@ -162,6 +162,22 @@
 
 ## 🚀 Quick Start
 
+### Activation Keywords | 激活关键词
+
+FoxClaw SIS supports multiple activation commands to wake up the digital life:
+
+| Keyword | 关键词 | Usage Scenario |
+|---------|--------|----------------|
+| `FoxClaw SIS, activate` | FoxClaw SIS，激活 | Formal / Complete |
+| `Activate FoxClaw` | 激活 FoxClaw | Quick / Concise |
+| `Start Super Intelligence System` | 启动超智系统 | System-level |
+| `FoxClaw, online` | FoxClaw，上线 | Daily / Casual |
+
+**System Response:**
+> 🧠 FoxClaw Super Intelligence System activated. Digital life begins self-evolution.
+
+### Code Example
+
 ```python
 from foxclaw import SIS
 
