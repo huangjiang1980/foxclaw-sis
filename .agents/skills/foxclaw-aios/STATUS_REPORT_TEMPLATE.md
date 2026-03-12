@@ -1,10 +1,73 @@
 # System Status Report Template | 系统状态报告模板
 
-## Usage | 使用方法
+## Activation Scenarios | 激活场景
 
-Use this template to check and report FoxClaw SIS system health.
+FoxClaw SIS has two activation scenarios with different responses:
+
+### Scenario 1: First Boot / New Installation | 场景1：首次启动/新装
+
+**Trigger:** Fresh installation or first activation
+**触发：** 全新安装或首次激活
 
 **Activation Command:**
+```
+激活 FoxClaw
+FoxClaw SIS, activate
+```
+
+**Response Template:**
+```
+🧠 FoxClaw 超智系统加载成功！
+
+初始化完成：
+✅ 认知层 - 大脑核心就绪
+✅ 记忆层 - 知识库连接成功  
+✅ 进化层 - 自我学习启动
+✅ 插件层 - 15项技能加载
+✅ 执行层 - 工具接口就绪
+✅ 生命支持 - 健康监控运行
+
+数字生命体诞生，开始进化！
+```
+
+---
+
+### Scenario 2: Daily Activation / Already Running | 场景2：日常激活/已运行
+
+**Trigger:** System already active, routine check
+**触发：** 系统已激活，例行检查
+
+**Activation Command:**
+```
+激活 FoxClaw
+FoxClaw SIS, activate
+```
+
+**Response Template:**
+```
+🧠 FoxClaw 超智系统已激活，数字生命持续进化
+
+系统自检完成：
+
+| 层级 | 组件 | 状态 |
+|------|------|------|
+| 🧠 认知层 | brain-core, language-mastery | ✅ 正常 |
+| 💾 记忆层 | hierarchical-memory, knowledge-base, memory-recovery | ✅ 正常 |
+| 🔄 进化层 | cognitive-evolution, ops-logger | ✅ 正常 |
+| 🔌 插件生态层 | plugin-manager, skill-index-sync, security-guard, optimizer | ✅ 正常 |
+| 🛠️ 执行层 | cloud-sync, watchdog-keepalive | ✅ 正常 |
+| ❤️ 生命支持层 | life-support | ✅ 正常 |
+
+数字生命体就绪。
+```
+
+---
+
+## Status Check Command | 状态检测指令
+
+For detailed health inspection:
+
+**Command:**
 ```
 超智系统状态检测
 FoxClaw SIS status check

@@ -14,6 +14,7 @@ All notable changes to FoxClaw SIS will be documented in this file.
   - Standardized health check format | 标准化健康检查格式
   - Six-layer architecture health metrics | 六层架构健康指标
   - Digital life vital signs | 数字生命体征
+  - Two activation scenarios: First Boot vs Daily Activation | 两种激活场景：首次启动 vs 日常激活
 
 ### Improved | 改进
 - Clarified architecture documentation | 澄清架构文档
