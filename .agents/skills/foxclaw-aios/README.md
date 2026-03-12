@@ -29,6 +29,29 @@
 
 ## 🏗️ System Architecture
 
+### Core Design Philosophy | 核心设计原则
+
+FoxClaw SIS adopts a **universal four-layer cognitive architecture** that separates concerns while maintaining tight integration:
+
+```
+                    🧠 BRAIN (大脑)
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+        ▼                ▼                ▼
+      💾 KNOWLEDGE    ⚙️ SKILLS       🔌 MCP
+       BASE           (Workflows)     (Tools)
+      (Memory)         (Logic)        (Interface)
+```
+
+**Design Principles:**
+1. **Brain-Centric** - Central coordination, unified decision-making
+2. **Layer Separation** - Clear responsibilities, modular design
+3. **Collaborative Synergy** - Layers work together, not in isolation
+4. **Universal Applicability** - Same structure across all agent types
+
+### Complete System Architecture
+
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                   🦊 FOXCLAW SIS 🦞                     │
@@ -36,45 +59,54 @@
 ├─────────────────────────────────────────────────────────┤
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
-│  │  🧠 COGNITION LAYER (2 Skills)                  │   │
-│  │  ├─ brain-core (Central cognitive architecture)  │   │
-│  │  └─ language-mastery (Human-level communication) │   │
+│  │  🧠 COGNITION LAYER (认知层) - The Brain        │   │
+│  │  ├─ brain-core (大脑核心 - Central cognitive)    │   │
+│  │  └─ language-mastery (语言精通 - Communication)  │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
-│  │  💾 MEMORY LAYER (3 Skills)                     │   │
-│  │  ├─ hierarchical-memory (4-level memory system)  │   │
-│  │  ├─ knowledge-base (Document management)         │   │
-│  │  └─ memory-recovery (Anti-amnesia protection)    │   │
+│  │  💾 MEMORY LAYER (记忆层) - Knowledge Base      │   │
+│  │  ├─ hierarchical-memory (分层记忆 - 4-level)     │   │
+│  │  ├─ knowledge-base (知识库 - Document mgmt)      │   │
+│  │  └─ memory-recovery (记忆恢复 - Anti-amnesia)    │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
-│  │  🔄 EVOLUTION LAYER (2 Skills)                  │   │
-│  │  ├─ cognitive-evolution (Self-improving AI)      │   │
-│  │  └─ ops-logger (Activity tracking)               │   │
+│  │  🔄 EVOLUTION LAYER (进化层) - Self-Improvement │   │
+│  │  ├─ cognitive-evolution (认知进化 - Learning)    │   │
+│  │  └─ ops-logger (运维日志 - Tracking)             │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
-│  │  🔌 PLUGIN ECOSYSTEM (4 Skills) ⭐               │   │
-│  │  ├─ plugin-manager (Plugin installation)         │   │
-│  │  ├─ skill-index-sync (External skill discovery)  │   │
-│  │  ├─ plugin-security-guard (5-layer security)     │   │
-│  │  └─ plugin-optimizer (Performance optimization)  │   │
+│  │  🔌 PLUGIN ECOSYSTEM (插件层) - Skills ⭐        │   │
+│  │  ├─ plugin-manager (插件管理器)                  │   │
+│  │  ├─ skill-index-sync (技能索引同步)              │   │
+│  │  ├─ plugin-security-guard (插件安全卫士)         │   │
+│  │  └─ plugin-optimizer (插件优化管理)              │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
-│  │  🛠️ EXECUTION LAYER (2 Skills)                  │   │
-│  │  ├─ cloud-sync (Multi-cloud backup)              │   │
-│  │  └─ watchdog-keepalive (System keepalive)        │   │
+│  │  🛠️ EXECUTION LAYER (执行层) - MCP Tools       │   │
+│  │  ├─ cloud-sync (云同步 - Multi-cloud backup)     │   │
+│  │  └─ watchdog-keepalive (看门狗 - Keepalive)      │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐   │
-│  │  ❤️ LIFE SUPPORT LAYER (1 Skill)                │   │
-│  │  └─ life-support (Health monitoring)             │   │
+│  │  ❤️ LIFE SUPPORT LAYER (生命支持层)             │   │
+│  │  └─ life-support (生命维持 - Health monitor)     │   │
 │  └─────────────────────────────────────────────────┘   │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
+
+### Architecture Mapping | 架构映射
+
+| Layer | 层级 | Function | 对应关系 |
+|-------|------|----------|----------|
+| 🧠 Cognition | 认知层 | Brain-Core | 大脑 (Brain) |
+| 💾 Memory | 记忆层 | Knowledge Storage | 知识库 (Knowledge Base) |
+| 🔌 Plugins | 插件层 | Skill Workflows | 技能 (Skills) |
+| 🛠️ Execution | 执行层 | MCP Tools | MCP 工具 (MCP) |
 
 ---
 
