@@ -35,6 +35,11 @@ All notable changes to FoxClaw SIS will be documented in this file.
   - Auto-detection scripts (Windows/Linux/Mac) | 自动检测脚本
   - Adaptive monitoring based on deployment mode | 基于部署模式的自适应监控
   - Manual override support | 手动覆盖支持
+- Cloud PC management | 云电脑管理
+  - CLOUD_PC_MANAGEMENT.md - Anti-sleep and management guide | 防休眠与管理指南
+  - Power settings configuration | 电源设置配置
+  - Keep-alive scripts | 保活脚本
+  - Resource monitoring | 资源监控
 
 ### Improved | 改进
 - Clarified architecture documentation | 澄清架构文档
