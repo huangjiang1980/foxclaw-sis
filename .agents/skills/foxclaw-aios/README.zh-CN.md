@@ -224,6 +224,16 @@ FoxClaw SIS 支持多种激活指令来唤醒数字生命：
 **系统响应：**
 > 🧠 FoxClaw 超智系统已激活，数字生命开始自我进化
 
+### 系统状态检测
+
+检测系统健康状态：
+```
+超智系统状态检测
+FoxClaw SIS status check
+```
+
+查看完整状态报告格式：[STATUS_REPORT_TEMPLATE.md](./STATUS_REPORT_TEMPLATE.md)
+
 ### 代码示例
 
 ```python

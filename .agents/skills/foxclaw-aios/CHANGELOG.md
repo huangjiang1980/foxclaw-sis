@@ -10,6 +10,10 @@ All notable changes to FoxClaw SIS will be documented in this file.
   - `Activate FoxClaw` | `激活 FoxClaw`
   - `Start Super Intelligence System` | `启动超智系统`
   - `FoxClaw, online` | `FoxClaw，上线`
+- System status report template | 系统状态报告模板
+  - Standardized health check format | 标准化健康检查格式
+  - Six-layer architecture health metrics | 六层架构健康指标
+  - Digital life vital signs | 数字生命体征
 
 ### Improved | 改进
 - Clarified architecture documentation | 澄清架构文档

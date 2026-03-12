@@ -213,6 +213,16 @@ FoxClaw SIS supports multiple activation commands to wake up the digital life:
 **System Response:**
 > 🧠 FoxClaw Super Intelligence System activated. Digital life begins self-evolution.
 
+### System Status Check | 系统状态检测
+
+To check system health, use:
+```
+超智系统状态检测
+FoxClaw SIS status check
+```
+
+See [STATUS_REPORT_TEMPLATE.md](./STATUS_REPORT_TEMPLATE.md) for the complete status report format.
+
 ### Code Example
 
 ```python
