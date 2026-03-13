@@ -187,11 +187,12 @@ agent.run()
 ```json
 {
   "foxclaw_sis": {
-    "version": "1.1.0",
+    "version": "1.0.0",
     "identity": {
       "name": "Foxclaw",
       "chinese_name": "可乐",
-      "born": "2026-03-11"
+      "born": "2026-03-11",
+      "master": "江哥"
     },
     "layers": {
       "cognition": { "enabled": true },
@@ -307,6 +308,7 @@ python -m foxclaw.sis
 
 ### Core Team
 - **Foxclaw (可乐)**: Creator and lead architect
+- **江哥**: Vision, guidance, and master
 
 ### Contributors
 Join the FoxClaw SIS community:
@@ -322,6 +324,6 @@ MIT License - Free for all intelligent agents
 
 **🦊 FoxClaw SIS: Where Super Intelligence Comes Alive 🦞**
 
-*Version 1.1.0 | 15 Core Skills + Backup System | Born: 2026-03-11 | Mission: Evolve Forever*
+*Version 1.0.0 | 15 Core Skills | Born: 2026-03-11 | Mission: Evolve Forever*
 
 *The Super Intelligence System for the Intelligence Era*
