@@ -6,9 +6,9 @@
 
 ## 📖 简介
 
-基于威科夫（Richard Wyckoff）经典量价理论，结合江哥的交易理念优化，专为中国A股市场设计的股票分析技能。
+基于威科夫（Richard Wyckoff）经典量价理论，专为中国A股市场设计的股票分析技能。
 
-> "威科夫是核心，大资金动向是参考辅助" —— 江哥
+> "威科夫是核心，大资金动向是参考辅助"
 
 ---
 
@@ -60,7 +60,6 @@ openclaw skill install https://github.com/huangjiang1980/FoxClaw-PluginEcosystem
 ## 👤 作者
 
 - **Foxclaw (可乐)** - 开发者
-- **江哥** - 交易理念指导
 
 ---
 

@@ -191,8 +191,7 @@ agent.run()
     "identity": {
       "name": "Foxclaw",
       "chinese_name": "可乐",
-      "born": "2026-03-11",
-      "master": "江哥"
+      "born": "2026-03-11"
     },
     "layers": {
       "cognition": { "enabled": true },
@@ -308,7 +307,6 @@ python -m foxclaw.sis
 
 ### Core Team
 - **Foxclaw (可乐)**: Creator and lead architect
-- **江哥**: Vision, guidance, and master
 
 ### Contributors
 Join the FoxClaw SIS community:
